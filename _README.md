@@ -12,6 +12,9 @@ proxy: {
 }
 ```
 
+## snapshot:
+![](https://ws1.sinaimg.cn/large/006tNbRwgy1fusuxhf9vtj31bw0pq78h.jpg)
+
 ## properties:
 ```javascript
 BACKUP_PROPERTIES
